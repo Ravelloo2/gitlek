@@ -11,8 +11,3 @@ public class Main {
  public static void main(String[] args)
 }
 System.out.println("hello world")
-```
-## How to insert image
-``` HTML
-<img src="url" alt="alternatetext">
-```
