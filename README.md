@@ -1,1 +1,5 @@
 # gitlek
+
+# const myFunction() => {
+	code
+}
