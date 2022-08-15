@@ -1,5 +1,6 @@
 # gitlek
 ```javascript
 const myFunction() => {
-	code
+let x = 1
+return x
 }
