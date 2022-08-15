@@ -1,5 +1,5 @@
 # gitlek
 
-# const myFunction() => {
+ const myFunction() => {
 	code
 }
