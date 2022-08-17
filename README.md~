@@ -10,8 +10,4 @@ const myFunction() => {
 public class Main {
  public static void main(String[] args)
 }
-System.out.println("hello world"
-)
-```
-## How to insert image in Markdown
-![anime] (Classroom-of-the-Elite-Wallpaper.jpg)
+System.out.println("hello world")
