@@ -14,4 +14,4 @@ System.out.println("hello world"
 )
 ```
 ## How to insert image in Markdown
-![anime] (Classroom-of-the-Elite-Wallpaper.jpg)
+![anime](Classroom-of-the-Elite-Wallpaper.jpg)
